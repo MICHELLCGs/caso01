@@ -1,4 +1,4 @@
-<Strong>CASO V1 DOCKER<Strong>
+<h1>strong>CASO V1 DOCKER<strong></h1>
 <h3>Crear la red</h3>
 - docker network create caso1-red
 <h3>Construir las imagenes</h3>
